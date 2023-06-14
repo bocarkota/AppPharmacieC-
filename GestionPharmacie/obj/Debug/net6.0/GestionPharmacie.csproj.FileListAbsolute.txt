@@ -1,0 +1,15 @@
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\bin\Debug\net6.0\GestionPharmacie.exe
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\bin\Debug\net6.0\GestionPharmacie.deps.json
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\bin\Debug\net6.0\GestionPharmacie.runtimeconfig.json
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\bin\Debug\net6.0\GestionPharmacie.dll
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\bin\Debug\net6.0\GestionPharmacie.pdb
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.csproj.AssemblyReference.cache
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.AssemblyInfoInputs.cache
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.AssemblyInfo.cs
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.dll
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\refint\GestionPharmacie.dll
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.pdb
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\GestionPharmacie.genruntimeconfig.cache
+C:\Users\Bocar MANGASSOUBA\Desktop\PharmacieApp\GestionPharmacie\GestionPharmacie\obj\Debug\net6.0\ref\GestionPharmacie.dll
